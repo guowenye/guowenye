@@ -58,7 +58,6 @@
   </picture>
 </p>
 
-这些卡片由 GitHub Actions 通过 `readme-tools/github-readme-stats-action@v1` 生成，并保存为仓库内的静态 SVG，避免主页每次加载都依赖公开统计接口。
 
 ## Current Direction
 
