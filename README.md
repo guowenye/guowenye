@@ -60,3 +60,8 @@ Engineering       -> reliability, maintainability and production readiness
 **Building practical products, stable services, and better developer workflows.**
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guowenye/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guowenye/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guowenye/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
