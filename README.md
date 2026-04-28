@@ -1,6 +1,10 @@
 <div align="center">
 
-# Guo Wenye
+# Arrow
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Android+Developer;Backend+Builder;Smart+Ecosystem;Building+practical+products+and+stable+services" alt="Typing SVG" />
+</a>
 
 **Android Developer · Backend Builder · Smart Ecosystem**
 
@@ -37,10 +41,10 @@
 
 <p align="center">
   <a href="https://github.com/guowenye">
-    <img height="180" src="./profile/stats.svg" alt="Guo Wenye GitHub Stats" />
+    <img height="180" src="./profile/stats.svg" alt="Arrow GitHub Stats" />
   </a>
   <a href="https://github.com/guowenye">
-    <img height="180" src="./profile/top-langs.svg" alt="Guo Wenye Top Languages" />
+    <img height="180" src="./profile/top-langs.svg" alt="Arrow Top Languages" />
   </a>
 </p>
 
